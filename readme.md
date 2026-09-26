@@ -177,17 +177,9 @@ Phone      : 9876543210
 
 ![View All Students](screenshots/VIEW.png)
 
-### Search Student
-
-![Search Student](screenshots/SEARCH.png)
-
 ### Update Student
 
 ![Update Student](screenshots/UPDATE.png)
-
-### Delete Student
-
-![Delete Student](screenshots/DELETE.png)
 
 ## How the Program Stores Data
 
