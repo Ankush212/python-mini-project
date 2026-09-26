@@ -55,11 +55,19 @@ No external libraries are required.
 ```text
 Student-Record-Management/
 │
-├── student_record.py
+├── student.py
+├── screenshots/
+│   ├── MAIN.png
+│   ├── ADD.png
+│   ├── VIEW.png
+│   ├── SEARCH.png
+│   ├── UPDATE.png
+│   └── DELETE.png
 └── README.md
 ```
 
 * `student_record.py` - Main Python program.
+* `screenshots/` - Images of the application in use.
 * `README.md` - Project documentation.
 
 ## How to Run
@@ -154,6 +162,32 @@ Course     : MCA
 Marks      : 85
 Phone      : 9876543210
 ```
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/MAIN.png)
+
+### Add Student
+
+![Add Student](screenshots/ADD.png)
+
+### View All Students
+
+![View All Students](screenshots/VIEW.png)
+
+### Search Student
+
+![Search Student](screenshots/SEARCH.png)
+
+### Update Student
+
+![Update Student](screenshots/UPDATE.png)
+
+### Delete Student
+
+![Delete Student](screenshots/DELETE.png)
 
 ## How the Program Stores Data
 
